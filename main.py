@@ -33,8 +33,8 @@ async def toggle_mute_all(ctx):
 
     if toggle:
         toggle = False
-    else:
-        toggle = True
+        return;
+    toggle = True
 
 
 @client.event
