@@ -1,3 +1,4 @@
+# The command for the bot is *m or *toggle_mute_all
 # You have to place your private api key for the TOKEN variable!
 # The channel of a member only updates when they leave or join so if
 # you started the bot while you're in a channel it won't detect you
